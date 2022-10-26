@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-image: url(./thumb2-counter-strike-global-offensive-4k-minimal-black-backgrounds-cs-go.jpg);
+  background-position: top center;
+  background-repeat: repeat;
+  background-size: 100% auto;
+  background-color: black;
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  color: white;
+  padding: 10px;
+  padding-bottom: 40px;
+}
+
+h2 {
+  color: white;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+p {
+  color: white;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+.imagem ul {
+  padding-left: 10px;
+}
+
+
+div p {
+  display: inline;
+}
+
+.fallen {
+  color: white;
+  padding-left: 110px;
+}
+
+.fer {
+  color: white;
+  padding-left: 220px;
+}
+
+li {
+  padding-bottom: 10px;
+}
